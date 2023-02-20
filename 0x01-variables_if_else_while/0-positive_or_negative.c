@@ -1,7 +1,6 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
->>>>>>> 75513707afd910192073e3b37131bd7e1cc2cb53
 /**
  * main - assign a random number to the variable n each time it is executed
  * if the number is greater than 0: is positive, if the number is 0: is zero
@@ -11,10 +10,6 @@
 
 int main(void)
 {
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 75513707afd910192073e3b37131bd7e1cc2cb53
 int n;
 
 srand(time(0));
@@ -31,9 +26,5 @@ else
 {
 printf("%d is zero\n", n);
 }
-<<<<<<< HEAD
-return (0)
-=======
 return (0);
->>>>>>> 75513707afd910192073e3b37131bd7e1cc2cb53
 }
